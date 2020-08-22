@@ -35,7 +35,7 @@ const Footer = () => {
                   <li>Sign in or Create Account</li>
                 </ul>
               </div>
-              <div className="db_col1_row2">
+              {/* <div className="db_col1_row2">
                 <h3 className="db_colHeading
                 ">Credit Cards</h3>
                 <ul className="db_footerList">
@@ -44,7 +44,7 @@ const Footer = () => {
                   <li>Credit Card Offers</li>
                   <li>Apply Now</li>
                 </ul>
-              </div>
+              </div> */}
             </div>
             <div className="db_col2">
               <div className="db_col2_row1">
@@ -57,13 +57,13 @@ const Footer = () => {
                   <li>Price Match Guarantee</li>
                 </ul>
               </div>
-              <div className="db_col2_row2">
+              {/* <div className="db_col2_row2">
                 <h3 className="db_colHeading
                 ">Lease to Own</h3>
                 <ul className="db_footerList">
                   <li>Apply Now</li>
                 </ul>
-              </div>
+              </div> */}
             </div>
             <div className="db_col3">
               <div className="db_col3_row1">
