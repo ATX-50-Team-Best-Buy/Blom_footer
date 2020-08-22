@@ -89,12 +89,12 @@ const Footer = () => {
                   <li>Advertise with Us</li>
                 </ul>
               </div>
-              <div className="db_col4_row2">
+              {/* <div className="db_col4_row2">
                 <h3 className="db_colHeading
                 ">International Sites</h3>
                 <ul className="db_footerList">
                   <li>Best Buy Mexico</li>
-                  <li>Best Buy Canada</li>
+                  <li>Best Buy Canada</li> */}
                 </ul>
               </div>
             </div>
