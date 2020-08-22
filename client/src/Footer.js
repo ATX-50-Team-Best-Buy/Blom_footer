@@ -95,8 +95,8 @@ const Footer = () => {
                 <ul className="db_footerList">
                   <li>Best Buy Mexico</li>
                   <li>Best Buy Canada</li> */}
-                </ul>
-              </div>
+                {/* </ul>
+              </div> */}
             </div>
           </div>
         </div>
