@@ -1,5 +1,4 @@
 # Blom_footer
-# Best Buy Clone
 
 ## About Best Buy Clone
 Best Buy Clone is a web application designed to mimic the functionatliy and looks of the Best Buy website.
