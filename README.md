@@ -42,6 +42,10 @@ This Application was built by a team of three Full Stack Software Engineers from
       <td><a href="https://babeljs.io/">Babel</a></td>
       <td><a href="https://www.npmjs.com/">NPM</a></td>
     </tr>
+ <tr>
+      <td class="subheading">Deployment</td>
+      <td><a href="https://aws.amazon.com/ec2/">AWS EC2</a></td>
+    </tr>
 </table>
 
 ### Installation
